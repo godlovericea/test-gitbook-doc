@@ -1,0 +1,14 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  previous: ./
+
+# PDF 配置（可选）
+# pdf:
+#   download: true
+#   toc: true
+
